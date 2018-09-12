@@ -1,0 +1,44 @@
+body{
+    background-color: #baa5ad;
+  }
+  h1 {
+    color: #33485f;
+    text-align: center;
+    text-shadow: 4px 2px silver;
+  }
+  h2{
+    color: #024077;
+    text-align: center;
+    text-shadow: 4px 2px silver;
+    text-size: 20px;
+  }
+  h4 {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+  }
+  p {
+    margin: auto;
+    text-align: center;
+    width: 90%;
+  }
+  .studio-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    height: 50%;
+    width: 50%;
+  }
+  .main-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 75%;
+  }
+  .quote {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+  }
